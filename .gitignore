@@ -1,0 +1,6 @@
+*
+
+!/.gitignore
+!/fvector_nonolithic.hpp
+!/gameIdChanger.cpp
+!/LICENSE.txt
